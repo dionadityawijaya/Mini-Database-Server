@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Desktop/MiniDatabaseServer/build/CMakeFiles/server.dir
+C:/Users/LENOVO/Desktop/MiniDatabaseServer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/LENOVO/Desktop/MiniDatabaseServer/build/CMakeFiles/ZERO_CHECK.dir
